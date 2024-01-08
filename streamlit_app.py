@@ -50,4 +50,4 @@ if uploaded_file is not None:
         st.write(f'Result: {prediction["result"]}')
 
 # Footer
-st.markdown('© [Andrews Kwadwo Owusu 2024')
+st.markdown('© Andrews Kwadwo Owusu 2024')
